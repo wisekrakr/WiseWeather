@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wise Weather</string>
+    <string name="search">Search</string>
+    <string name="error">Failed to get any results</string>
+    <string name="search_cityweather">Search for weather in your city....</string>
+</resources>
