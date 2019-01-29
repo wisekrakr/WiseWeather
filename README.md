@@ -2,7 +2,7 @@
 An android app where you can look up the weather.
 
 This is a basic android app, without all the bells and whistles.
-I studied making apps, using js and json and handeling api's: this is culmination of those studies.
+I studied making apps, using js and json and handeling api's: this is the culmination of those studies.
 
 * signed up with openweather.org. Created an API key. 
 * created an simple app with some textviews and a search button.
